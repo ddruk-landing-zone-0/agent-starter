@@ -1,0 +1,11 @@
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+pydantic
+colorlog
+
+langchain_core
+langchain_openai
+python-dotenv
+vertexai
+pillow
